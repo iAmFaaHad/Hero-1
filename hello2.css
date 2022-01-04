@@ -1,0 +1,11 @@
+h1{
+    
+    color: rgb(239, 237, 245);
+    background-color: rgb(1, 16, 26);
+    height: 100%;
+    width: 80%;
+    font-size: 30px;
+font-style: italic;}
+small{
+    display: block;
+}
